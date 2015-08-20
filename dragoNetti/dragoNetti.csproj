@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>c8f62b7f-6ec0-471b-a56c-604c55d54ff3</ProjectGuid>
+    <ProjectGuid>{491D2F10-06A9-415A-ACA9-8BC4DA796F9A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>dragoNetti</RootNamespace>
